@@ -1,0 +1,43 @@
+Roteiro sobre Manipulação de Dados
+1. Introdução: O que é manipulação de dados?
+(Slide ou introdução visual)
+
+"Hoje em dia, somos cercados por dados. Cada vez que navegamos na internet, utilizamos um aplicativo ou fazemos uma compra online, estamos gerando informações. Esses dados, quando manipulados, podem ser usados para influenciar nossas escolhas, desde o que compramos até o que assistimos."
+
+(Narrador) "Manipulação de dados é o processo de ajustar ou organizar dados para alcançar um objetivo específico. Isso pode ser feito de várias maneiras, e nem sempre percebemos como estamos sendo influenciados."
+
+2. Exemplos práticos da manipulação de dados no cotidiano
+(Slide com exemplos visuais)
+
+Plataformas de redes sociais: "Já percebeu como você vê certos conteúdos no seu feed, mas não outros? Isso é resultado de algoritmos que analisam o que você gosta e ajustam o que você vê."
+E-commerce: "Em lojas online, os produtos recomendados são baseados nas suas compras anteriores ou nas pesquisas que você fez. Essas recomendações são um exemplo clássico de como seus dados são usados para direcionar suas decisões de compra."
+Marketing personalizado: "Propagandas que aparecem enquanto você navega pela internet, muitas vezes, são personalizadas com base no que você pesquisou recentemente."
+(Narrador) "Esses são apenas alguns exemplos de como a manipulação de dados afeta as nossas escolhas sem que a gente perceba. Por trás de cada clique ou compra, há uma cadeia de dados sendo analisada e organizada para influenciar nossa próxima ação."
+
+3. Manipulação de dados: nem sempre é ruim
+(Narrador) "Vale destacar que a manipulação de dados não é sempre algo negativo. Muitas vezes, ela é usada para nos oferecer uma experiência mais personalizada e eficiente. O problema ocorre quando isso acontece sem transparência ou quando os dados são usados de forma a nos levar a decisões que não tomaríamos conscientemente."
+
+4. A experiência do Jogo: uma brincadeira para entender a manipulação de dados
+(Slide com o jogo)
+
+"Nós falamos bastante sobre como os dados são manipulados para influenciar as nossas decisões. Agora, vamos fazer uma pequena experiência divertida para que vocês possam vivenciar como essa manipulação pode acontecer de maneira sutil. Vamos jogar um jogo rápido."
+
+5. Apresentação do Jogo do Nove:
+(Explicação das regras) "O jogo é simples. Vocês verão uma série de números na tela, e sua tarefa é clicar nos números que vocês acham que podem ser eliminados. O objetivo é deixar apenas o número mestre, o 5. Parece fácil, certo?"
+
+"Mas a brincadeira é que, ao longo do jogo, alguns números serão eliminados, e a manipulação que estamos fazendo aqui é que queremos ver se conseguimos influenciar suas escolhas, sem que vocês percebam."
+
+6. Execução do jogo
+(Narrador interage com o público enquanto o jogo está sendo jogado) "Perceberam como, sem perceber, vocês estavam sendo guiados? Talvez pela aparência dos números, pela posição deles na tela... Tudo isso pode ser usado para influenciar suas escolhas, e é exatamente assim que funciona a manipulação de dados na vida real."
+
+7. Conclusão: O impacto da manipulação de dados
+(Narrador) "Viram como pode ser fácil ser influenciado sem perceber? Esse pequeno jogo é uma forma simples de mostrar como nossos dados e as informações ao nosso redor podem ser usados para guiar nossas decisões, mesmo que a gente não perceba."
+
+"Na vida real, é importante ter consciência de como as informações que recebemos e os dados que geramos podem estar sendo manipulados. E ao saber disso, podemos ser mais críticos e cuidadosos nas nossas escolhas."
+
+Estratégias para encaixar o jogo no roteiro:
+Antes do jogo: A introdução vai explicar como a manipulação de dados pode acontecer de forma sutil e como isso influencia nossas escolhas no cotidiano. Dessa forma, as pessoas já começam a pensar sobre como são influenciadas antes mesmo de jogar.
+
+Durante o jogo: Enquanto os participantes jogam, o narrador pode fazer pequenos comentários sobre como decisões são tomadas com base nas aparências (como o layout do jogo), ou sobre a facilidade de eliminar certos números que parecem "menos importantes" para o objetivo final.
+
+Após o jogo: Finalizar destacando a relação entre o jogo e a realidade, mostrando que a manipulação dos números no jogo simula como empresas, plataformas e algoritmos podem nos influenciar a tomar decisões que favorecem um objetivo maior (no caso do jogo, o número mestre).

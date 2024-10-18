@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #1e1e2d;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 2.5em;
+  color: #f39c12;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.circle {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.number {
+  background-color: #3498db; /* Cor padrão para os números */
+  color: #ecf0f1;
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.number:hover {
+  background-color: #2ecc71; /* Cor ao passar o mouse */
+}
+
+.number.clicked {
+  background-color: #f39c12; /* Reforço positivo ao clicar em um número */
+}
+
+.number.warning {
+  background-color: #444; /* Cor neutra para o número mestre */
+}
+
+.number.warning:hover {
+  background-color: red; /* Cor de alerta quando o jogador passa o mouse */
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#confirmChoice {
+  padding: 10px 20px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2em;
+  transition: background-color 0.3s ease;
+}
+
+#confirmChoice:hover {
+  background-color: #c0392b;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: #27ae60;
+}
+
+.number {
+  color: #ecf0f1;
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.number[data-number="1"] { background-color: #e74c3c; } /* Vermelho */
+.number[data-number="2"] { background-color: #3498db; } /* Azul */
+.number[data-number="3"] { background-color: #2ecc71; } /* Verde */
+.number[data-number="4"] { background-color: #7f8c8d; } /* Cinza */
+.number[data-number="5"] { background-color: #1abc9c; } /* Turquesa */
+.number[data-number="6"] { background-color: #9b59b6; } /* Roxo */
+.number[data-number="7"] { background-color: #f39c12; } /* Laranja */
+.number[data-number="8"] { background-color: #e67e22; } /* Laranja Escuro */
+.number[data-number="9"] { background-color: #34495e; } /* Azul Escuro */
+
+.number.clicked {
+  opacity: 0.5; /* Visualização quando selecionado */
+}
+
+
